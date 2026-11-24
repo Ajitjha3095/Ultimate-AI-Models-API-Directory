@@ -1,0 +1,86 @@
+name: Suggest an AI or Report Pricing Update
+description: Suggest a new AI model/tool for the Complete List of AI or report a pricing change.
+title: "[AI Suggestion]: "
+labels: ["ai-list"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Request Type
+      options:
+        - Add a New AI to the List
+        - Update Existing AI Pricing / Free Plan
+        - Suggest a New Category
+        - Remove Discontinued AI
+    validations:
+      required: true
+
+  - type: input
+    id: ai_name
+    attributes:
+      label: AI Name & Creator (Check README.md first — zero duplicates allowed)
+      placeholder: e.g. Midjourney (Midjourney)
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Official Website or Repo URL (https://, unique & no referral links)
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - 1. Flagship AI Chatbots & General Assistants
+        - 2. Frontier & Enterprise LLM Labs
+        - 3. Open-Source & Open-Weight Foundation Models
+        - 4. Local AI Runners, Self-Hosted UIs & Inference Engines
+        - 5. AI Search Engines & Deep Research Tools
+        - 6. AI Coding IDEs, Extensions & Terminal Agents
+        - 7. AI Full-Stack App, Website & No-Code Builders
+        - 8. AI Code Review, QA Testing & Developer Docs
+        - 9. AI Image Generators & Creative Art Studios
+        - 10. AI Photo Editing, Upscaling, Headshots & Product Studios
+        - 11. AI Video Generation & World Models
+        - 12. AI Video Avatars, Editing, Repurposing & VFX
+        - 13. AI Voice Generation, Speech-to-Speech & Dubbing
+        - 14. AI Speech-to-Text, Dictation & Meeting Assistants
+        - 15. AI Music, Vocals, Stems & Sound Design
+        - 16. AI Writing, Copywriting, Grammar & Storytelling
+        - 17. AI Presentations, Diagrams, Docs & Knowledge Workspaces
+        - 18. AI Email, Scheduling, Tasks & Personal Productivity
+        - 19. AI Agents, Browser Automation & Orchestration Frameworks
+        - 20. AI UI/UX Design, Branding, Web Graphics & Architecture
+        - 21. AI 3D Modeling, Photogrammetry & Spatial Assets
+        - 22. AI Marketing, SEO, AEO/GEO & Social Media Growth
+        - 23. AI Sales, Customer Support, Voice Agents & GTM
+        - 24. AI Data Analysis, Spreadsheets, Vector DBs & Finance
+        - 25. AI Legal, Healthcare, HR & Enterprise Back-Office
+        - 26. AI Science, Math, Education, Language Learning & Robotics
+        - 27. AI Cybersecurity, Red-Teaming, Guardrails & Observability
+        - 28. AI Document OCR, PDF Intelligence & Translation
+        - 29. AI Character Roleplay, Gaming & Interactive Worlds
+        - 30. Regional, Sovereign & Multilingual AI Champions
+        - 31. AI Browser Extensions & Desktop Everyday Copilots
+        - 32. Multi-AI Hubs, Cloud GPUs, Inference Clouds & Leaderboards
+        - Other / New Category
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: AI Details (What it does, Best For, Free Plan, Pricing, Platforms)
+      placeholder: |
+        - What It Does & Key Features:
+        - Best For:
+        - Free Plan: Yes / Free & Open-Source / Trial / No
+        - Exact Pricing:
+        - Platforms: Web, iOS, Android, macOS, Windows
+    validations:
+      required: true
