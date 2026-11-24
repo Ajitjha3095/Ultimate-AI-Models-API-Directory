@@ -1,12 +1,19 @@
 # Complete List of AI
 
-> **A curated, strictly deduplicated GitHub directory of `608` existing AI models, chatbots, open-source frameworks, search engines, coding agents, app builders, creative studios (image, video, voice, music, 3D), workflow agents, specialized industry AIs, regional AI champions, and cloud playgrounds.**
-> Every AI is listed **exactly once** (`0` duplicate names · `0` duplicate URLs) with **what it does, key features, best use cases, free plan status, exact pricing, and supported platforms**.
+>A comprehensive directory of **608 AI models, chatbots, open-source frameworks, search engines, coding assistants, app builders, creative studios, autonomous agents, and industry AI platforms** across **32 categories** — including key features, best use cases, free plan availability, pricing, and supported platforms.
 
 `Total Unique AIs: 608` · `Categories: 32` · `Free / Open-Source: 509 (83.7%)` · `Duplicates: 0` · `Updated: November 2026` · `License: MIT`
 
-**Quick Navigation:** [Directory Statistics](#directory-statistics) · [Category Index](#index) · [Best AI for Every Task (2026)](#quick-guide-best-ai-for-every-task-2026) · [Repository Structure](#repository-structure) · [Contributing](#contributing) · [Author](#author) · [License](#license)
-**GitHub Repository:** [github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory](https://github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory) · [Suggest an AI](https://github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory/issues/new/choose) · [Open a Pull Request](https://github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory/pulls)
+**Quick Navigation:**
+· [Directory Statistics](#directory-statistics) 
+· [Category Index](#index)
+· [Best AI for Every Task (2026)](#quick-guide-best-ai-for-every-task-2026)
+· [Repository Structure](#repository-structure) · [Contributing](#contributing) 
+· [Author](#author)
+· [License](#license)
+**GitHub Repository:** [github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory](https://github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory) 
+· [Suggest an AI](https://github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory/issues/new/choose) 
+· [Open a Pull Request](https://github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory/pulls)
 
 ---
 
