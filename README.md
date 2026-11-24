@@ -1,4 +1,4 @@
-# Complete List of AI
+# Ultimate AI Models & API Directory
 
 >A comprehensive directory of **608 AI models, chatbots, open-source frameworks, search engines, coding assistants, app builders, creative studios, autonomous agents, and industry AI platforms** across **32 categories** — including key features, best use cases, free plan availability, pricing, and supported platforms.
 
@@ -1128,13 +1128,15 @@ Contributions are welcome! Help keep the **Complete List of AI** accurate, clean
 ## Author
 
 **Ajit Jha**
+
 Senior Data Research Analyst | AI-Powered Knowledge Graphs · Financial Intelligence · Metadata Engineering
 
-* **GitHub:** [@Ajitjha3095](https://github.com/Ajitjha3095)
-* **LinkedIn:** [Ajit Jha](https://www.linkedin.com/in/ajitjha01/)
-* **Portfolio:** [ajitjha.netlify.app](https://ajitjha.netlify.app/)
+- **GitHub:** [Ajitjha3095](https://github.com/Ajitjha3095)
+- **LinkedIn:** [Ajit Jha](https://www.linkedin.com/in/ajitjha01/)
+- **Portfolio:** [ajitjha.netlify.app](https://ajitjha.netlify.app/)
+- **Kaggle:** [ajitjha3095](https://www.kaggle.com/ajitjha3095)
 
-⭐ **If you find this directory helpful, consider starring [Ajitjha3095/Ultimate-AI-Models-API-Directory](https://github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory) on GitHub!**
+⭐ **If you find this directory useful, feel free to star the repository on GitHub!**
 
 ---
 
