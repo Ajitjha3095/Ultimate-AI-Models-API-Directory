@@ -11,6 +11,8 @@
 · [Repository Structure](#repository-structure) · [Contributing](#contributing) 
 · [Author](#author)
 · [License](#license)
+
+
 **GitHub Repository:** [github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory](https://github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory) 
 · [Suggest an AI](https://github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory/issues/new/choose) 
 · [Open a Pull Request](https://github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory/pulls)
